@@ -1,0 +1,32 @@
+[
+    {
+        "id":"1",
+        "language":"React js",
+        "Qualification":"BCA",
+        "Experience":"1 year"
+    },
+    {
+        "id":"2",
+        "language":"Node js",
+        "Qualification":"MCA",
+        "Experience":"2 year"
+    },
+    {
+        "id":"3",
+        "language":"Web Development",
+        "Qualification":"Msc IT",
+        "Experience":"4 year"
+    },
+    {
+        "id":"4",
+        "language":"Javascript CSS",
+        "Qualification":"MCA",
+        "Experience":"2 year"
+    },
+    {
+        "id":"5",
+        "language":"PHP",
+        "Qualification":"BCA",
+        "Experience":"2 year"
+    }
+]
